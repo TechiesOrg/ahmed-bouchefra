@@ -1,10 +1,10 @@
-title: Ahmed Bouchefra
-description: Web developer and technical writer
+title: Shabang.DEV
+description: Teaching you modern coding techniques!
 
-url: https://www.ahmedbouchefra.com
+url: https://www.shabang.dev
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: :title/
 
 markdown: kramdown
 highlighter: rouge
@@ -16,13 +16,11 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
 
 social:
   github: techiediaries
-  twitter: ahmedbouchefra
-  facebook: ahmed.bouchefra
+  twitter: shabangdev
+  facebook: shabangdev
   email: techiediaries9@gmail.com
 
 google_analytics: "UA-74071120-3"
