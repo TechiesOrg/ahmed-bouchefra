@@ -34,6 +34,13 @@ These are the steps of this tutorial:
 -   Tutorial step 10 — Implementing Pagination in your App
 -   Tutorial step 11 — Building the Production Bundles and Deploying your Angular App to Firebase
 
+The tutorial is divided into the following parts:
+
+- [Setting up Angular 9 HttpClient & Creating Components by Example](https://www.shabang.dev/setting-up-angular-httpclient-and-creating-components-by-example/): In the previous steps of our Angular 9 tutorial, we’ve created an example project using Angular CLI. We’ll now see how to import and set up HttpClient in our project and we’ll also create the components that compose the UI.    
+ [Adding Angular 9 Routing and Material Design by Example](https://www.shabang.dev/adding-angular-routing-and-material-design-by-example/): In these steps of our Angular 9 tutorial, we’ll continue building our example app by setting up the router and adding routing for the home and about components. Next, we set up Angular Material in our project and use Material components such as MatToolbar, MatIcon, MatCard, MatButton, and MatProgressSpinner to style the UI of our app.
+- [Building and Consuming a REST API with Angular 9: Sending GET Requests with HttpClient and Services by Example](https://www.shabang.dev/building-and-consuming-a-rest-api-with-angular-sending-get-requests-with-httpclient-and-services-by-example/): In this part of our Angular 9 tutorial, we’ll build a fake REST API backend for our Angular frontend using json-server and faker.js and next we’ll see how to create a service to send GET requests to our backend to fetch and consume data which will be rendered in the home components using the ngFor and ngIf directives.
+ 
+ 
 As always let's start with the prerequisites!
 
 > **Note**: you can download our  [Angular 8 Book: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) for free.
