@@ -8,7 +8,6 @@ date:   2019-12-27
 
 In this how-to tutorial, we'll see how to build a multiple file/image uploading service with Angular 9 which allows you to upload files to a remote server via a POST request method to listen for progress events.
 
-If you are new to these how-tos, check out how to [install and set up a project and the prerequisites](https://www.techiediaries.com/angular-cli-tutorial/).
 
 ## Prerequisites
 
